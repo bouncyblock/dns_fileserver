@@ -4882,3 +4882,7 @@ gh-proxy:
   ttl: 300
   type: CNAME
   value: b.selfhosted.hackclub.com.
+fileserver:
+  - ttl: 600
+    type: CNAME
+    value: https://ac060621-708b-4d5b-bfce-6c258b16f95d.cfargotunnel.com/.
